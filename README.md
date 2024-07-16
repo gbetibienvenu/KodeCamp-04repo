@@ -134,7 +134,8 @@ Security Groups: Virtual firewalls for instances.
 NACLs: Additional layer of security for subnets.
 
 
-![image](https://github.com/gbetibienvenu/KodeCamp-04repo/assets/64703165/91e7609b-40d9-4756-b5e4-1084b6a15ca0)
 
 
+
+![Screenshot 2024-07-16 160300](https://github.com/user-attachments/assets/cb0a33b3-803e-4dc6-b9ab-a9498cbed757)
 
